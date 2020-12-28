@@ -2,7 +2,7 @@
   "name": "superfluid_test",
   "version": "1.0.0",
   "description": "Trying run Superfluid SDK in a node enviroment.",
-  "main": "bot.js",
+  "main": "test.js",
   "dependencies": {
     "@babel/core": "^7.12.10",
     "@codechecks/client": "^0.1.10",
