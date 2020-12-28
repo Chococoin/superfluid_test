@@ -1,5 +1,4 @@
 'use strict'
-console.log("🏁 Start ~/tbot/test.js")
 require('dotenv').config()
 const { toWad, toBN, fromWad, wad4human } = require("@decentral.ee/web3-helpers")
 const HDWalletProvider = require("@truffle/hdwallet-provider")
